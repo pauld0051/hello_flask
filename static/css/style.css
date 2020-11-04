@@ -1,0 +1,4 @@
+/* target the children of the col-md-5 only, this avoids all images being targeted */
+.col-md-5 img {
+    width: 100%;
+}
